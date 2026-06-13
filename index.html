@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="description" content="Para Isabela — Nossa História">
+  <meta name="theme-color" content="#0c0a09">
+  <title>Para Isabela — Nossa História</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Italiana&display=swap" rel="stylesheet">
+  <link rel="preload" as="image" href="fotos/hero.jpg" fetchpriority="high">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Senha de acesso -->
+  <div id="lock-screen" class="lock-screen">
+    <div class="lock-card">
+      <p class="lock-pre">Um presente só seu</p>
+      <h2 class="lock-title">Para Isabela</h2>
+      <p class="lock-hint">Digite a senha para abrir</p>
+      <input type="password" id="lock-input" class="lock-input" inputmode="numeric" autocomplete="off" placeholder="••••••" maxlength="12">
+      <button type="button" id="lock-btn" class="lock-btn">Abrir</button>
+      <p id="lock-error" class="lock-error hidden">Senha incorreta. Tenta de novo.</p>
+    </div>
+  </div>
+
+  <!-- Surpresa: abertura cinematográfica -->
+  <div id="intro-screen" class="intro-screen" aria-hidden="true">
+    <div class="intro-inner">
+      <p class="intro-whisper">preparei algo pra você</p>
+      <h1 class="intro-name" id="intro-name"></h1>
+      <div class="intro-heart">♥</div>
+    </div>
+  </div>
+
+  <canvas id="confetti-canvas" class="confetti-canvas"></canvas>
+
+  <div id="album" class="album locked">
+    <nav class="album-nav" id="album-nav">
+      <button data-ch="hero">Início</button>
+      <button data-ch="memorias">Memórias</button>
+      <button data-ch="pre">Ensaio</button>
+      <button data-ch="cas">Casamento</button>
+      <button data-ch="finale">Carta</button>
+    </nav>
+    <div class="progress-bar" id="progress-bar"></div>
+
+    <section class="chapter hero" id="chapter-hero">
+      <div class="hero-bg" id="hero-bg">
+        <img id="hero-img" class="hero-img" src="fotos/hero.jpg" alt="" fetchpriority="high" decoding="sync">
+      </div>
+      <div class="hero-overlay"></div>
+      <div class="hero-content">
+        <p class="hero-pre">Pra minha esposa</p>
+        <h1 class="hero-name" id="hero-name"></h1>
+        <p class="hero-days" id="hero-days"></p>
+        <p class="hero-opening" id="hero-opening"></p>
+        <div class="scroll-cue"><span>Desce pra ver</span><div class="scroll-line"></div></div>
+      </div>
+    </section>
+
+    <section class="chapter story-chapter" id="chapter-memorias">
+      <div class="chapter-head">
+        <span class="chapter-num">Parte I</span>
+        <h2>Nossa história</h2>
+        <p class="chapter-intro">14 capítulos. Do pedido de namoro até a nossa casa. Sem filtro.</p>
+      </div>
+      <div class="story-track" id="story-track"></div>
+    </section>
+
+    <section class="chapter chapter-light" id="chapter-pre">
+      <div class="chapter-head">
+        <span class="chapter-num">Parte II</span>
+        <h2>Pré-ensaio</h2>
+        <p class="chapter-intro">O dia que a gente foi tirar foto e acabou rindo a tarde inteira.</p>
+      </div>
+      <div class="gallery masonry" id="gallery-pre"></div>
+    </section>
+
+    <section class="chapter" id="chapter-casamento">
+      <div class="chapter-head">
+        <span class="chapter-num">Parte III</span>
+        <h2>13.12.2025 — O Dia</h2>
+        <p class="chapter-date" id="wedding-date"></p>
+      </div>
+      <div class="gallery showcase" id="gallery-casamento"></div>
+    </section>
+
+    <section class="chapter surprise-chapter" id="chapter-surprise">
+      <div class="surprise-wrap">
+        <p class="surprise-hint">Psst... tem mais uma coisa</p>
+        <button type="button" class="envelope-btn" id="envelope-btn" aria-label="Abrir carta surpresa">
+          <span class="envelope-flap"></span>
+          <span class="envelope-body"></span>
+          <span class="envelope-label">Toque pra abrir</span>
+        </button>
+        <div class="secret-letter hidden" id="secret-letter">
+          <div class="secret-letter-inner">
+            <p class="secret-greeting">Isabela,</p>
+            <div class="secret-body" id="secret-body"></div>
+            <p class="secret-sign">Com todo meu amor,<br><strong>Luan</strong></p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="chapter finale" id="chapter-finale">
+      <div class="finale-inner">
+        <div class="finale-ring">♥</div>
+        <h2>Isabela,</h2>
+        <p class="finale-text" id="finale-text"></p>
+        <p class="finale-sign">Te amo,<br><strong>Luan</strong></p>
+        <p class="finale-date">13 · 12 · 2025 — pra sempre</p>
+      </div>
+    </section>
+  </div>
+
+  <div id="lightbox" class="lightbox hidden" role="dialog" aria-modal="true">
+    <button type="button" class="lb-close" id="lb-close">&times;</button>
+    <button type="button" class="lb-nav lb-prev" id="lb-prev">‹</button>
+    <img id="lb-img" src="" alt="">
+    <p id="lb-caption" class="lb-caption"></p>
+    <button type="button" class="lb-nav lb-next" id="lb-next">›</button>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

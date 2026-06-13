@@ -1,0 +1,10 @@
+# Site estático — GitHub Pages
+.DS_Store
+Thumbs.db
+*.ps1
+_analyze_*.py
+COMO-PUBLICAR.md
+abrir-*.ps1
+rebuild.ps1
+qrcode-rede-local.png
+qrcode.html

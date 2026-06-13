@@ -1,0 +1,321 @@
+﻿{
+    "bride":  "Isabela Lima Machado",
+    "groom":  "Luan",
+    "weddingDate":  "13 de dezembro de 2025",
+    "weddingDateISO":  "2025-12-13",
+    "civilDateISO":  "2025-12-19",
+    "heroImage":  "fotos/hero.jpg",
+    "opening":  "Isabela, montei isso com carinho. São nossas fotos — mas cada uma me lembra de um pedacinho nosso.",
+    "finale":  "Obrigado por aguentar minhas piadinhas, por rir comigo, por acordar cedo pra treinar (mesmo reclamando rs) e por dizer sim. Eu te amo de um jeito que não cabe em foto nenhuma — mas tentei juntar um pouco aqui.",
+    "secretLetter":  "Isabela,\n\nSe você chegou até aqui, é porque passou por cada pedacinho da nossa história.\n\nEu não fiz isso pra impressionar ninguém — fiz pensando no seu sorriso quando você abrir no celular. Cada foto que coloquei aqui eu escolhi porque me lembra de você.\n\nObrigado por ser minha parceira no treino, na viagem, na obra, na família e em tudo. O sonho deu certo — e o melhor ainda está vindo.\n\nTe amo hoje, amanhã e no dia que a gente estiver velhinho olhando essas fotos de novo.",
+    "memorias":  [
+                     {
+                         "src":  "fotos/memorias/01-pedido-de-namoro.jpeg",
+                         "title":  "Pedido de namoro",
+                         "caption":  "Um lanchinho que gostamos muito, rosas e aquela frase no prato: \"Quer namorar comigo?\" Eu com vergonha pra caramba. Você nem imagina o quanto eu tremia.",
+                         "era":  "Capítulo 01 · Onde tudo começou"
+                     },
+                     {
+                         "src":  "fotos/memorias/02-momentos-sua-casa.jpeg",
+                         "title":  "Na frente da sua casa",
+                         "caption":  "A gente se despedindo e eu não querendo ir embora. Eu já sabia que queria te ver de novo no dia seguinte.",
+                         "era":  "Capítulo 02 · Primeiras despedidas"
+                     },
+                     {
+                         "src":  "fotos/memorias/03-buscar-no-trabalho.jpeg",
+                         "title":  "Te buscar no trabalho",
+                         "caption":  "Não era só carona, né? Era desculpa pra ficar mais um pouquinho com você. Você cansada do dia e eu feliz só de ter você do meu lado.",
+                         "era":  "Capítulo 03 · Coisa de casal"
+                     },
+                     {
+                         "src":  "fotos/memorias/04-olhos-brilhando.jpeg",
+                         "title":  "Seus olhos brilhando",
+                         "caption":  "Como eu amo ver seus olhinhos brilharem assim.",
+                         "era":  "Capítulo 04 · Olhar de amor"
+                     },
+                     {
+                         "src":  "fotos/memorias/05-beijo-praia.jpeg",
+                         "title":  "Essa gosta do meu beijo em",
+                         "caption":  "Uma memória tão especial, do nosso recorde inclusive rs.",
+                         "era":  "Capítulo 05 · Nosso verão"
+                     },
+                     {
+                         "src":  "fotos/memorias/06-momento-favorito.jpeg",
+                         "title":  "Essa aqui eu amo",
+                         "caption":  "Deitados, sem filtro, sem pose. Só nós dois. É nesses momentos simples que eu penso: caramba, que sorte a minha.",
+                         "era":  "Capítulo 06 · Sem produção"
+                     },
+                     {
+                         "src":  "fotos/memorias/07-acordar-5h-treinar.jpeg",
+                         "title":  "5 da manhã",
+                         "caption":  "Esse dia você acordou 5h da manhã pra treinar comigo kkkkkkkkkkk isso NUNCA MAIS ACONTECEU e você reclamou por semanas.",
+                         "era":  "Capítulo 07 · 5h da manhã"
+                     },
+                     {
+                         "src":  "fotos/memorias/08-minha-princesa.jpeg",
+                         "title":  "Minha princesa",
+                         "caption":  "Olha essa foto. Você linda, eu bobo sorrindo do seu lado. Minha princesa, e eu o cara mais sortudo do mundo por ter você.",
+                         "era":  "Capítulo 08 · Meu coração"
+                     },
+                     {
+                         "src":  "fotos/memorias/09-viagem-rs.jpeg",
+                         "title":  "Nossas viagens",
+                         "caption":  "Essa foto numa praia em... rs rs rs. Memória demais pra gente.",
+                         "era":  "Capítulo 09 · Nossas viagens"
+                     },
+                     {
+                         "src":  "fotos/memorias/10-inicio-sonho.jpeg",
+                         "title":  "Início de um dos nossos sonhos",
+                         "caption":  "Capacete, obra e a gente sorrindo. Não era só tijolo e cimento, era o começo de algo nosso. Conquistar junto é o que a gente faz de melhor.",
+                         "era":  "Capítulo 10 · Construindo"
+                     },
+                     {
+                         "src":  "fotos/memorias/11-dia-do-sim.jpeg",
+                         "title":  "Mais um sim",
+                         "caption":  "No meio da festa, todo mundo em volta, e só existia você. Mais um sim nosso.",
+                         "era":  "Capítulo 11 · Noivado"
+                     },
+                     {
+                         "src":  "fotos/memorias/12-terceiro-sim.jpeg",
+                         "title":  "Terceiro sim kkk",
+                         "caption":  "19 de dezembro. Aliança no dedo, documento na mão e aquele sorriso que não cabia no rosto. Terceiro sim, e esse foi pra carimbar de vez kkkkkk.",
+                         "era":  "Capítulo 12 · Civil"
+                     },
+                     {
+                         "src":  "fotos/memorias/13-nossa-familia.jpeg",
+                         "title":  "Nossa família",
+                         "caption":  "Eu, você e a Anna. Não tem foto mais bonita que essa. Nossa família, e que vai crescer rs.",
+                         "era":  "Capítulo 13 · Nós três"
+                     },
+                     {
+                         "src":  "fotos/memorias/14-sonho-deu-certo.jpeg",
+                         "title":  "E o sonho deu certo",
+                         "caption":  "Nossa casa. Nosso canto. O lugar onde a gente ri, descansa, briga por besteira e se ama de novo. O sonho deu certo, Isabela.",
+                         "era":  "Capítulo 14 · Nosso lar"
+                     }
+                 ],
+    "preEnsaio":  [
+                      {
+                          "src":  "fotos/pre-ensaio/01_AJGP4263.JPG",
+                          "caption":  "A gente rindo sem parar"
+                      },
+                      {
+                          "src":  "fotos/pre-ensaio/02_BIHJ1056.JPG",
+                          "caption":  "Mais um clique nosso"
+                      },
+                      {
+                          "src":  "fotos/pre-ensaio/03_BUFY7316.JPG",
+                          "caption":  "Olha a cara de feliz"
+                      },
+                      {
+                          "src":  "fotos/pre-ensaio/04_CASF1924.JPG",
+                          "caption":  "Dia de ensaio, dia bom"
+                      },
+                      {
+                          "src":  "fotos/pre-ensaio/05_CJIF8911.JPG",
+                          "caption":  "Seu sorriso de novo"
+                      },
+                      {
+                          "src":  "fotos/pre-ensaio/06_DAFK5558.JPG",
+                          "caption":  "Eu te olhando, como sempre"
+                      },
+                      {
+                          "src":  "fotos/pre-ensaio/07_DMPP2722.JPG",
+                          "caption":  "Branco, sol e a gente"
+                      },
+                      {
+                          "src":  "fotos/pre-ensaio/08_EGJS5984.JPG",
+                          "caption":  "Foto bonita, memória melhor"
+                      },
+                      {
+                          "src":  "fotos/pre-ensaio/09_EQHQ9635.JPG",
+                          "caption":  "Encostada em mim"
+                      },
+                      {
+                          "src":  "fotos/pre-ensaio/10_GHQB3716.JPG",
+                          "caption":  "Rindo de besteira"
+                      },
+                      {
+                          "src":  "fotos/pre-ensaio/11_GLSN0567.JPG",
+                          "caption":  "Sem pose, só a gente"
+                      },
+                      {
+                          "src":  "fotos/pre-ensaio/12_IPJB6581.JPG",
+                          "caption":  "Te amo nessa também"
+                      },
+                      {
+                          "src":  "fotos/pre-ensaio/13_KESY2657.JPG",
+                          "caption":  "Esse dia foi especial"
+                      },
+                      {
+                          "src":  "fotos/pre-ensaio/14_KZJX7973.JPG",
+                          "caption":  "Lugar bonito, você melhor"
+                      },
+                      {
+                          "src":  "fotos/pre-ensaio/15_LZPS3551.JPG",
+                          "caption":  "Mais uma pra guardar"
+                      },
+                      {
+                          "src":  "fotos/pre-ensaio/16_OPEJ8555.JPG",
+                          "caption":  "Nosso ensaio"
+                      },
+                      {
+                          "src":  "fotos/pre-ensaio/17_OVCS6367.JPG",
+                          "caption":  "Sorriso que eu amo"
+                      },
+                      {
+                          "src":  "fotos/pre-ensaio/18_PQLN3615.JPG",
+                          "caption":  "Do jeito que a gente é"
+                      },
+                      {
+                          "src":  "fotos/pre-ensaio/19_RKFU4996.JPG",
+                          "caption":  "Faltava pouco pro grande dia"
+                      },
+                      {
+                          "src":  "fotos/pre-ensaio/20_RMNL6328.JPG",
+                          "caption":  "Já contando os dias"
+                      },
+                      {
+                          "src":  "fotos/pre-ensaio/21_SJOY9234.JPG",
+                          "caption":  "Detalhe que eu amava"
+                      },
+                      {
+                          "src":  "fotos/pre-ensaio/22_UDQC6154.JPG",
+                          "caption":  "Você linda demais"
+                      },
+                      {
+                          "src":  "fotos/pre-ensaio/23_WCHY4463.JPG",
+                          "caption":  "Última do ensaio — mas nunca a última memória"
+                      }
+                  ],
+    "casamento":  [
+                      {
+                          "src":  "fotos/casamento/01_AASO3890.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/02_AUMM8638.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/03_BQSL4054.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/04_CHRW7490.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/05_DFBL8958.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/06_DWZU8707.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/07_EQXD9768.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/08_FFHU9247.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/09_GALD3806.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/10_GJQS6745.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/11_HFWU1427.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/12_IEXH9739.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/13_IVGR3515.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/14_KFMF1605.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/15_LGJZ1794.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/16_LRHI4128.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/17_MECW9471.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/18_MYCA8622.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/19_NTAN2989.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/20_OGCS5102.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/21_OZCL1949.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/22_PTNI8191.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/23_QNAF1384.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/24_RCXU7952.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/25_RZWI5956.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/26_SUPK3775.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/27_TGWD9870.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/28_UKYO8040.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/29_VUVH6120.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/30_WQFR6142.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/31_XLFK7618.JPG",
+                          "caption":  ""
+                      },
+                      {
+                          "src":  "fotos/casamento/32_YIFL3318.JPG",
+                          "caption":  ""
+                      }
+                  ]
+}

@@ -122,7 +122,11 @@
     }
 
     $("#wedding-date").textContent = data.weddingDate;
-    if (data.finale) $("#finale-text").textContent = data.finale;
+    if (data.finale) {
+      $("#finale-text").textContent = data.finale;
+    } else {
+      $("#finale-text")?.remove();
+    }
 
     const hero = data.heroImage || (data.preEnsaio[0] && data.preEnsaio[0].src);
     const heroImg = $("#hero-img");
